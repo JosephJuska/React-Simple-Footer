@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a, button, li {
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+  }
